@@ -1,0 +1,6 @@
+drop table if exists Shipment;
+drop table if exists Billing;
+drop table if exists Package;
+drop table if exists Customer;
+drop table if exists Recipient;
+drop table if exists Location;
